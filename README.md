@@ -2,6 +2,7 @@
 실용적 파이썬 with GCP(Pratical python with GCP) 
 <br>
 ## INDEX
+```
 1. GCE(Google Cloud Engine)을 이용한 분석서버 구축<br>
 1-1. GCE(Google Cloud Engine)을 이용하여 분석서버 만들기<br>
 1-2. 분석서버(GCE)에 쥬피터 노트북서버 구축하기<br>
@@ -18,3 +19,4 @@
 
 3. 분석서버(GCE)에 Airflow 설치하고 파이썬을 통한 ETL 파이프라인 구축하기<br>
 4. 구축한 분석서버와 저장소를 활용하여 Kaggle 데이터 분석하기<br>
+```
