@@ -8,10 +8,7 @@
 1-3. 분석서버(GCE)에 Rstudio 서버 구축하기<br>
 
 2. Google Cloud SQL/Bigquery/Google Cloud Storage를 통한 데이터 마트/Lake 구축하기<br>
-2-1. Google Cloud SQL을 통한 분석RDB 만들고 분석서버(GCE)와 연결하기<br>
-  a. MySQL<br>
-  b. PostgreSQL<br>
-  c. SQL-server(MSSQL)<br>
+2-1. Google Cloud SQL을 통한 분석RDB 만들고 분석서버(GCE)와 연결하기(MySQL/PostgreSQL/SQL-server(MSSQL)<br>
 2-2. 분석서버(GCE)와 Google Bigquery를 연결하고 파이썬으로 데이터 로드하기<br>
 2-3. 분석서버(GCE)와 Google Bigquery를 연결하고 Rstudio로 데이터 로드하기<br>
 2-4. 분석서버(GCE)와 Google Cloud Storage 연결를 연결하고 파이썬으로 데이터 로드하기<br>
