@@ -2,7 +2,7 @@
 실용적 파이썬 with GCP(Pratical python with GCP) 
 
 ## INDEX
-* (1) GCE(Google Cloud Engine)을 이용한 분석서버 구축
+1. GCE(Google Cloud Engine)을 이용한 분석서버 구축
 * (1-1) GCE(Google Cloud Engine)을 이용하여 분석서버 만들기
 * (1-2) 분석서버(GCE)에 쥬피터 노트북서버 구축하기
 * (1-3) 분석서버(GCE)에 Rstudio 서버 구축하기
